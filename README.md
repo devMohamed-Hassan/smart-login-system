@@ -10,8 +10,5 @@ This project is a **Smart Login System** that allows users to register and log i
 - **Authentication** : Upon login, users are authenticated based on the data stored in localStorage.
 - **Responsive Design** : The user interface is fully responsive, ensuring compatibility across all devices with Bootstrap.
 
-## Live Demo 
-
-
-[Smart Login System](https://devMohamed-Hassan.github.io/Login-System/)
+[Live Demo](https://devMohamed-Hassan.github.io/smart-login-system/)
 
